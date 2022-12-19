@@ -1,8 +1,6 @@
 - 👋  Hi, I’m @JuliaNiki // Julia Nikitina
 
 - 👀  I’m interested in coding, foreign languages, vegan cooking and nutritional science. 
- 
-- 🌱  I’m currently learning front-end development at Technigo Frontend Bootcamp 
 
 - 💞️  I’m looking to collaborate on job offers and common projects. 
 
