@@ -6,7 +6,6 @@
 
 - 📫  How to reach me: by email nik.iuliiasw@gmail.com or on LinkedIn https://www.linkedin.com/in/julia-nikitinashlm/
 
-- 📍  I lived in Russia, France, China, Finland and I'm currently based in Stockholm
 
 
 <!---
